@@ -1,6 +1,6 @@
-## ATMega32-based digital clock with alarm - v2
+## ATmega32-based digital clock with alarm - v2
 
-Second attempt at digital clock based on ATMega32. Comparing to version 1, this one
+Second attempt at digital clock based on ATmega32. Comparing to version 1, this one
 has a more compact design, two 4-digit 7-segment displays and supports two independent
 DS18B20 digital thermometers (one internal and one external on wire).
 
